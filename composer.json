@@ -1,6 +1,6 @@
 {
-    "name": "vss/test",
-    "description": "Vss package test",
+    "name": "vsms/test",
+    "description": "Vsms package test",
     "require": {
         "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
         "vss/test": "~1.0 | master"
