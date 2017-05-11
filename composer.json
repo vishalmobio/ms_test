@@ -18,6 +18,8 @@
             "homepage": "http://mobiosolutions.com/"
         }
     ],
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
     "autoload": {
         "files": [
             "registration.php"
