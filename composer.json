@@ -1,0 +1,29 @@
+{
+    "name": "vss/test",
+    "description": "Vss package test",
+    "require": {
+        "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
+        "vss/test": "~1.0 | master"
+    },
+    "type": "magento2-module",
+    "version": "2.1.5",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Vishal",
+            "email": "vishal.maru@mobiosolutions.com",
+            "homepage": "http://mobiosolutions.com/"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Vs\\Banner\\": ""
+        }
+    }
+}
